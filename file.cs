@@ -1,2 +1,2 @@
 first  message feature two
-secont message feature two
+second message feature two
