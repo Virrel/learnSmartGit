@@ -1,0 +1,2 @@
+D:\VisualStudioProjects\VS2015\KonturT\KonturT\bin\Debug\KonturT.exe.config
+D:\VisualStudioProjects\VS2015\KonturT\KonturT\obj\Debug\KonturT.csprojResolveAssemblyReference.cache
