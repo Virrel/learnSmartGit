@@ -44,7 +44,7 @@ namespace KonturT.Controllers
         [HttpPut]
         public HttpResponseMessage PutServer([FromUri]string endpoint, [FromBody]ServerInfo si)
         {
-            /*if (ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 var s = con.Servers.FirstOrDefault(x => x.endpoint == endpoint);
                 if (s != null)
@@ -65,7 +65,7 @@ namespace KonturT.Controllers
             else
             {
                 return Request.CreateErrorResponse(HttpStatusCode.BadRequest, ModelState);
-            }*/
+            }
             return Request.CreateErrorResponse(HttpStatusCode.BadRequest, ModelState);
         }
 
